@@ -25,7 +25,7 @@ public class Reserve {
         
         room.setFname(Fname);
         
-        System.out.print("Enter Last Name: ");
+        System.out.print("Enter your Last Name: ");
         Lname = sc.nextLine().toUpperCase();
         room.setLname(Lname);
         
